@@ -8,5 +8,5 @@ Welcome to my GitHub profile! I'm a Flutter junior blogger based in Uzbekistan, 
 - 📝 As a blogger, I share my journey in learning Flutter and coding tips on my instagram account @ummahcoder
 - 💬 Feel free to reach out to me if you have any questions, suggestions, or just want to connect!
 - 📫 You can reach me via email at ummahcoder@gmail.com or connect with me on Instagram
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her personal account @urinbayeeva
 - ⚡ Fun fact: I love exploring new cuisines and trying out different recipes in my free time!
